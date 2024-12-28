@@ -6,7 +6,9 @@
 # 域名后缀匹配
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com
-
+DOMAIN-KEYWORD,googleapis
+DOMAIN-KEYWORD,gstatic
+DOMAIN-KEYWORD,lra8j
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
@@ -31,7 +33,6 @@ DOMAIN-SUFFIX,vulpes.one
 DOMAIN-SUFFIX,mozz.us
 DOMAIN-SUFFIX,conman.org
 DOMAIN-SUFFIX,bortzmeyer.org
-
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
