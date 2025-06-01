@@ -46,5 +46,6 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,hongxingdl.com
 DOMAIN-SUFFIX,hongxingdl.one
+IP-CIDR,8.138.135.231/32,no-resolve
 
 
