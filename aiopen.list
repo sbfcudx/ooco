@@ -47,5 +47,8 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,hongxingdl.com
 DOMAIN-SUFFIX,hongxingdl.one
 IP-CIDR,8.138.135.231/32,no-resolve
+DOMAIN-KEYWORD,hongxingyun
+DOMAIN-KEYWORD,hongxing
+DOMAIN-KEYWORD,hongxingdl
 
 
