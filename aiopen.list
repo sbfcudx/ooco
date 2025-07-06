@@ -56,7 +56,7 @@ DOMAIN-SUFFIX,wns.windows.com
 DOMAIN-SUFFIX,edge.microsoft.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,metademolab.com
-services.bingapis.com
+DOMAIN-SUFFIX,services.bingapis.com
 
 
 
