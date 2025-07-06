@@ -50,5 +50,9 @@ IP-CIDR,8.138.135.231/32,no-resolve
 DOMAIN-KEYWORD,hongxingyun
 DOMAIN-KEYWORD,hongxing
 DOMAIN-KEYWORD,hongxingdl
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,events.data.microsoft.com
+DOMAIN-SUFFIX,wns.windows.com
+
 
 
